@@ -11,6 +11,8 @@
 ![Swing](https://img.shields.io/badge/Swing-589636?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## GitHub Stats
 ![GitHub commit activity](https://github-readme-stats.vercel.app/api?username=Jorge-Junior7&show_icons=true&theme=radical)
