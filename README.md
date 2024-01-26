@@ -14,9 +14,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## GitHub Stats
-![GitHub commit activity](https://github-readme-stats.vercel.app/api?username=Jorge-Junior7&show_icons=true&theme=radical)
-
 ## Sobre mim
 - 👦 Tenho 19 anos e estudo em horários flexíveis para cursar Análise e Desenvolvimento de Sistemas.
 - 🕒 Trabalho como Jovem Aprendiz, focado em reposição e marcação de mercadorias em uma vidraçaria.
