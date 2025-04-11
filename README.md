@@ -17,10 +17,12 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## Sobre mim
-- 👦 Tenho 19 anos e estudo em horários flexíveis para cursar Análise e Desenvolvimento de Sistemas.
-- 🕒 Trabalho como Jovem Aprendiz, focado em reposição e marcação de mercadorias em uma vidraçaria.
-- 💻 Busco uma carreira em Tecnologia da Informação e estou determinado a encontrar uma oportunidade na área muito em breve!
+##Sobre mim
+- 👨‍💻 Tenho 20 anos e estou em formação como Engenheiro de Software e Analista de Sistemas.
+- 🎯 Atuo como freelancer, desenvolvendo soluções sob demanda e reforçando meus conhecimentos por meio de projetos práticos.
+- 📚 Estudo Análise e Desenvolvimento de Sistemas e Engenharia de Software com horários flexíveis, sempre focado em evolução contínua.
+
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F1F0E8?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jorge-j%C3%BAnior-dev/)
