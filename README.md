@@ -17,7 +17,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-##Sobre mim
+## Sobre mim
 - 👨‍💻 Tenho 20 anos e estou em formação como Engenheiro de Software e Analista de Sistemas.
 - 🎯 Atuo como freelancer, desenvolvendo soluções sob demanda e reforçando meus conhecimentos por meio de projetos práticos.
 - 📚 Estudo Análise e Desenvolvimento de Sistemas e Engenharia de Software com horários flexíveis, sempre focado em evolução contínua.
